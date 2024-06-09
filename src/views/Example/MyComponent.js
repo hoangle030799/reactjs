@@ -34,6 +34,7 @@ class MyComponent extends React.Component {
                     arrJobs={this.state.arrJobs}
                     deleteAJob = {this.deleteAJob}
                 />
+                
             </>
         )
     }
